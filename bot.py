@@ -37,7 +37,7 @@ def send_welcome(message):
     # Xabar yuborish
     bot.reply_to(
         message,
-        "<blockquote><b>Naruto Animesini ko'rishni hohlasangiz unda pastdagi tugmasni bosing va kanalga qoshiling</b></blockquote>"
+        "<blockquote><b>Barcha MultiFimlar uchun pastdagi tugmani bosing va kanalga qoshiling</b></blockquote>"
         ,
         reply_markup=markup
     )
