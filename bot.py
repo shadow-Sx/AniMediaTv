@@ -12,7 +12,7 @@ load_dotenv()
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 
 # Kanal username
-CHANNEL_URL = "https://t.me/+LTnRUFYhvB0zODcy"
+CHANNEL_URL = "https://t.me/+799W0Bmni8k0YmMy"
 
 # Flask server yaratish
 server = Flask(__name__)
